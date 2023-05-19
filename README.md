@@ -1,4 +1,4 @@
-<h3>Olá! Me chamo Ronaldo Souza, sejam bem vindos ao meu perfil GitHub.
+<h3>Olá! Me chamo Ronaldo Souza, sejam bem vindos ao meu perfil GitHub.</h3>
 <ul>
 	<li> Sou estudante do curso de Análise e Desenvolvimento de Sistemas.</li>
 	<li> Moro em São Paulo / SP.</li>
